@@ -36,8 +36,8 @@ função call-back.
 1. Clone o repositório
 Abra o terminal e execute o comando:
 ```
-git clone https://github.com/caiquedebrito/temporizador_disparado.git
-cd temporizador_periodico
+git clone https://github.com/caiquedebrito/temporizador_disparo.git
+cd temporizador_disparo
 ```
 
 2. Abra o projeto no VS Code
