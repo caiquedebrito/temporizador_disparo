@@ -1,6 +1,6 @@
 # Temporizador de um disparo (One Shot)
 
-![Gif](./temporizador%20disparo.gif)
+https://github.com/user-attachments/assets/b9fd49ef-62bc-415f-8648-fd47a38814a4
 
 Com o emprego da função add_alarm_in_ms(), presente na ferramenta Pico SDK, projete um sistema de temporização para o acionamento de LEDs, que atua a partir do clique em um botão (pushbutton).
 
