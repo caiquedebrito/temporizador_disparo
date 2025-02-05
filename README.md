@@ -21,7 +21,7 @@ função call-back.
 5) Com o emprego da Ferramenta Educacional BitDogLab, faça um experimento com o código deste exercício utilizando o LED RGB – GPIOs 11, 12 e 13 e o Botão A, GPIO 05. 
 6) Opcional: Implementar uma rotina em software para atenuação do efeito bouncing no botão (software debounce).
 
-## Como executar o projeto
+## Instruções do uso do projeto 
 
 ### Pré-requisitos
 
